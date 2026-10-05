@@ -1,0 +1,4 @@
+Manrope variable font (weight axis 200–800), unmodified.
+Source: https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/manrope/Manrope%5Bwght%5D.ttf
+License: SIL Open Font License 1.1; see OFL.txt.
+Retrieved: 2026-10-04. Self-hosted; no external font requests.
